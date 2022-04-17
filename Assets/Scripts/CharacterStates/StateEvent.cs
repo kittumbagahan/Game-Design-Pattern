@@ -1,8 +1,8 @@
-namespace State
+namespace CharacterState
 {
     public enum StateEvent
     {
-        Start, Update, Exit
+        Enter, Update, Exit
     }
 
     public enum States
